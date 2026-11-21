@@ -1,6 +1,6 @@
-# Axon サポートサイト
+# アフィボードサポートサイト
 
-iOS アプリ Axon のサポートページとプライバシーポリシー。GitHub Pages で公開している。
+iOS アプリアフィボード のサポートページとプライバシーポリシー。GitHub Pages で公開している。
 
 - サポート: `index.html`
 - プライバシーポリシー: `privacy/index.html`
